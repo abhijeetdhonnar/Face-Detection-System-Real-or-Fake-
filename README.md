@@ -1,6 +1,23 @@
 # Face-Detection-System-Real-or-Fake-
 This project is a real-time AI-based face detection system that classifies faces as real or fake (e.g. photos, phone screens) using a custom-trained YOLOv8 model. It is designed to enhance security by detecting fake or imprinted faces during webcam-based verification.
 
+
+## How to run
+Step 1
+Run the FaceCollection.py
+run splitData.py
+for checking the errors and system
+for checking the errors and system
+
+
+step 2
+Finally run the program and open the webcam
+run the main.Py file
+Open your webcam automatically and running the program and we take a real or fake faces
+
+
+
+
 ## 📌 Features
 
 - ✅ Real-time face detection using OpenCV
